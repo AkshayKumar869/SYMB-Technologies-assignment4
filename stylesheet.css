@@ -1,0 +1,81 @@
+div{
+    border: 2px solid transparent;
+}
+.bbb{
+    border-bottom: 1px solid black;
+}
+.bbw{
+    border-bottom: 1px solid white;
+}
+.tac{
+    text-align: center;
+}
+.bgct{
+    background-color: transparent;
+}
+.bgcb{
+    background-color: black;
+}
+.bw{
+    border: 1px solid white;
+}
+.tcw{
+    color: white;
+}
+.whm{
+    width: 20%;
+    height: 350px;
+    margin: 0px 50px;
+}
+.ma{
+    margin: auto;
+}
+.df{
+    display: flex;
+}
+.jcc{
+    justify-content: center;
+}
+.acc{
+    align-content: center;
+}
+.jcse{
+    justify-content: space-evenly;
+}
+h4{
+    text-align: center;
+}
+.bcg{
+    background-color: rgb(250, 243, 243);
+}
+.bcw{
+    background-color: white;
+}
+.bcgg{
+    background-color: green;
+}
+.hmlmr{
+    height: 270px; 
+    margin-left: 40px ; 
+    margin-right: 40px;
+    margin-top: 5px;
+}
+.mt{
+    margin-top: 5px;
+}
+.ml{
+    margin-left: 80px;
+}
+.dw{
+    width: 70%;
+}
+.dw2{
+    width: 15%;
+}
+.ml2{
+    margin-left: 200px;
+}
+.hw{
+    height: 80px;
+    width: 200px;
+}
